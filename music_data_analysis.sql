@@ -1,3 +1,8 @@
+/*
+Project Name: Music Data Analysis for Beginners
+Developed by Golam Kaderye
+*/
+
 -- QUERIES (SET-1: EASY):
 
 /*
@@ -254,7 +259,7 @@ ORDER BY music_customer.email;
 
 -- ===========================================================================
 /*
-    Query-12: Let’s invite the artists who have written the most rock music in 
+    Query-12: Letâ€™s invite the artists who have written the most rock music in 
     our dataset. Write a SQL query that returns the artist name 
     and total track count of the top 10 rock bands.
 */
